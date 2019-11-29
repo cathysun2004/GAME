@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Movement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Movement.cs" Line="70" Column="5" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" Line="25" Column="5" />
+      <File FileName="Assets/Scripts/Points.cs" Line="30" Column="41" />
+      <File FileName="Assets/Scripts/MoveLeftCycle.cs" Line="13" Column="27" />
+      <File FileName="Assets/Scripts/generator.cs" Line="7" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
